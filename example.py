@@ -1,2 +1,2 @@
-# Change this to print "Hello Universe"
-print("Hello World")
+#this will print hello universe on the terminal
+print("Hello Universe")
